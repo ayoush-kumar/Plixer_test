@@ -1,3 +1,3 @@
-# Tesst website on follwing link
+# Test website on follwing link
 
 https://plixer.netlify.app/
